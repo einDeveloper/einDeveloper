@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
-<h3 align="center">Backend Developer from Germany, Oldenburg. Interested in IT, 3D-Print & more!</h3>
+<h3 align="center">Backend Developer from Germany, Oldenburg. Interested in IT, 3D-Print, Aviation & more!</h3>
 
 - 💬 Ask me about **everything you want**
 
